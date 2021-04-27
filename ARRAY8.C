@@ -1,3 +1,18 @@
+/*
+find value from provided
+Welcome
+Enter no,of values=
+5
+enter value 1=21
+enter value 2=45
+enter value 3=78
+enter value 4=34
+enter value 5=098
+write value to read=98
+5
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
