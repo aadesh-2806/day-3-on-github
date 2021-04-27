@@ -1,3 +1,16 @@
+/*
+reverse the given array
+Welcome
+Enter no,of values=
+5
+enter value 1=23
+enter value 2=45
+enter value 3=12
+enter value 4=89
+enter value 5=45
+45  23  45  12  89
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
