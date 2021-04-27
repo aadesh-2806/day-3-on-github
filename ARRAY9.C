@@ -1,3 +1,21 @@
+/*
+find no of repetition of a number in array
+
+Welcome
+Enter no,of values=
+8
+enter value 1=23
+enter value 2=567
+enter value 3=12
+enter value 4=76
+enter value 5=12
+enter value 6=76
+enter value 7=12
+enter value 8=89
+write value to read=12
+3
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
