@@ -1,3 +1,31 @@
+/*
+print stars coloumn wise
+Welcome
+Enter no,of values=
+5
+enter value=2
+enter value=7
+enter value=9
+enter value=13
+enter value=16
+*****
+*****
+ ****
+ ****
+ ****
+ ****
+ ****
+  ***
+  ***
+   **
+   **
+   **
+   **
+    *
+    *
+    *
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -10,7 +38,6 @@ int main()
 	{       printf("enter value=");
 		scanf("%d", &a[i]);
 	}
-																//to find min
 			for(i=1,m=a[0]; i<n;i=i+1)
 			{
 			     if(a[i]>m)
